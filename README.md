@@ -1,0 +1,1 @@
+# Nth-Term-in-Mixed-Geometric-Series
